@@ -1,13 +1,42 @@
-<h1 align="center">Hi 👋, I'm Fitrah Maulana</h1>
-<h3 align="center">I am a student passionate about technology and coding. Currently studying at [Your University Name] in Banda Aceh, Aceh, Indonesia. I love exploring new technologies and applying them to solve real-world problems.</h3>
+## Hi there, I'm Fitrah Maulana! 👋
 
-- 📫 How to reach me **fitrahmaulana111@gmail.com**
+🎓 **Student** | 📍 **Banda Aceh, Aceh, Indonesia**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/insomness" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="insomness" height="30" width="40" /></a>
-<a href="https://instagram.com/fiitrahmaulana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fiitrahmaulana" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### About Me
+
+I am a student passionate about technology and coding, currently studying Government Science at Syiah Kuala University in Banda Aceh, Aceh, Indonesia. I love exploring new technologies and applying them to solve real-world problems.
+
+### Skills
+
+- **Programming Languages**: Python, PHP, JavaScript
+- **Web Development**: HTML, CSS, JavaScript, Laravel, React
+- **Database Management**: MySQL, MongoDB
+- **Tools**: Git, Anaconda, VSCode
+
+### Projects
+
+- **[Space Monitor](https://github.com/fitrahmaulana/space-monitor)**: A project that monitors and analyzes space-related data. It involves using advanced algorithms and real-time data processing to provide insights and visualizations.
+
+### Education
+
+- **Syiah Kuala University**, Banda Aceh, Aceh, Indonesia
+  - *Degree*: Bachelor's in Government Science
+  - *Year*: 2021 - Present
+
+### Contact Me
+
+- **Email**: fitrahmaulana111@gmail.com
+- **Instagram**: [fiitrahmaulana](https://www.instagram.com/fiitrahmaulana)
+- **Facebook**: [insomness](https://www.facebook.com/insomness)
+
+---
+
+I am always open to new opportunities and collaborations! Feel free to reach out.
+
+---
+
+![Fitrah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fitrahmaulana&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitrahmaulana&layout=compact&theme=radical)
