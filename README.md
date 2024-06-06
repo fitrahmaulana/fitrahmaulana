@@ -19,6 +19,10 @@ I am a student passionate about technology and coding, currently studying Govern
 
 - **[Space Monitor](https://github.com/fitrahmaulana/space-monitor)**: A project that monitors and analyzes space-related data. It involves using advanced algorithms and real-time data processing to provide insights and visualizations.
 
+- **[0Class](https://github.com/fitrahmaulana/0Class)**: An innovative e-learning platform built with Laravel, designed to make online education more accessible and engaging. This platform offers a variety of tools for students and teachers to interact seamlessly and enhance the learning experience.
+
+- **[Electro Commerce](https://github.com/fitrahmaulana/electro-commerce)**: A robust e-commerce platform developed using Laravel. It provides a smooth shopping experience with features like product browsing, secure payment gateways, and user-friendly interfaces, making online shopping efficient and enjoyable.
+
 ### Education
 
 - **Syiah Kuala University**, Banda Aceh, Aceh, Indonesia
